@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @samarstiti
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
 - 📫 How to reach me stitisamar4@gmail.com
 
 
